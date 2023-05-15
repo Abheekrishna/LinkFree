@@ -4,14 +4,19 @@
   "bio": "Junior front-end developer | Javascript | Sharing my knowledge of javascript",
   "links": [
     {
-      "name": "Follow me on Twitter",
+      "name": "Twitter",
       "url": "https://twitter.com/AbheeKrishna",
       "icon": "FaTwitter"
     },
     {
-      "name": "Connect with me on LinkedIn",
+      "name": "LinkedIn",
       "url": "https://www.linkedin.com/in/abhee-k",
       "icon": "FaLinkedin"
+    }
+    {
+      "name": "Github",
+      "url": "https://github.com/Abheekrishna",
+      "icon": "FaGithub"
     }
   ]
 }
